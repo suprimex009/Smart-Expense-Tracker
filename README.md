@@ -38,3 +38,8 @@ Academic Mini Project – Advanced Programming Techniques.
 ## Learning GitHub
 
 This project is managed using Git and GitHub Desktop.
+## Upcoming Features
+
+- Monthly budget planning
+- Budget limit notifications
+- Savings goal tracking
