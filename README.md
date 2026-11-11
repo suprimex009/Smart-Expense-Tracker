@@ -35,3 +35,6 @@ A Python-based desktop application for managing personal income and expenses.
 
 ## Project Type
 Academic Mini Project – Advanced Programming Techniques.
+## Learning GitHub
+
+This project is managed using Git and GitHub Desktop.
